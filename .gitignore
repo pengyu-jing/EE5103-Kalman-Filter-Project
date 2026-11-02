@@ -1,0 +1,9 @@
+# Only the MATLAB code and the report PDF are tracked
+code/
+report/
+*.pdf
+!EE5103_Project_Report.pdf
+
+# MATLAB outputs
+matlab/figures/
+matlab/results/
